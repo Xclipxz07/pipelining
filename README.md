@@ -1,5 +1,5 @@
 # pipelining
-# Full CI/CD Data
+# Full CI/CD Data pipelining
 
 This repository demonstrates three separate example CI/CD pipelines (Python, SQL, Excel) and a unified full pipeline that runs them all. It is intended as self project for Data Analysts / Data Engineer.
 
