@@ -1,0 +1,4 @@
+patient_id,age,bp_systolic,bp_diastolic,medication_given,visit_date
+101,34,120,80,Yes,2024-01-10
+102,,145,90,No,2024-01-15
+103,45,,88,Yes,2024-01-20

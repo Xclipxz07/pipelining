@@ -1,0 +1,4 @@
+activity_id,patient_id,admission_date,discharge_date,department,length_of_stay_days,diagnosis_code,bed_id
+1,101,2024-01-01,2024-01-05,A&E,4,D01,1
+2,102,2024-01-02,2024-01-04,Cardiology,2,D02,2
+3,103,2024-01-02,2024-01-06,Orthopaedics,4,D03,3
